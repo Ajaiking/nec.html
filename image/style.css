@@ -1,0 +1,90 @@
+.page
+{
+  width:1340px;
+  height:1210px;
+ c
+}
+
+.headerpart
+{
+  width:1340px;
+  height:250px;
+  border-style:hidden;
+  background-color:rgb(12,100,198);
+  background-image:url('image/1.jpg');
+  background-repeat:no-repeat;
+}
+.linkspart
+{
+  width:1340px;
+  height:25px;
+  margin-top:25px;
+  background-color:rgb(500,0,8);
+  border-style:solid;
+}
+.linkspart a
+{
+ color:rgb(254,246,251);
+ text-decoration:none;
+}
+.linkspart a:hover
+{
+background-rgb(500,0,8);
+color:rgb(0,50,1000); 
+}
+.bodypart
+{
+  width:1340px;
+  height:840px;
+   border-style:solid;
+   margin-top:25px;
+}
+.bodypart .imagepart
+{
+  width:800px;
+  height:400px;
+ border-style:solid;
+ background-image:url('image/enter.jpg');
+ display:inline-block;
+
+}
+.bodypart .newspart
+{
+  width:530px;
+  height:800px;
+  border-style:hidden;
+  float:right;
+}
+.bodypart .newspart h1
+{
+  color:red;
+  margin-left:100px;
+}
+
+.bodypart .newspart .news
+{
+ width:530px;
+ height:750px;
+border-style:solid;
+}
+.bodypart .newspart .news h2
+{
+ color:blue;
+}
+.bodypart h2
+{
+ color:blue;
+ text-align:center;
+}
+.footerpart
+{
+  width:1340px;
+  height:30px;
+  margin-top:25px;
+  background-color:rgb(500,0,8);
+  border-style:solid;
+}
+  
+  
+
+  
